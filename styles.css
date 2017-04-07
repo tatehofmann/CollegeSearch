@@ -1,5 +1,9 @@
 body {
   background-color: #5389e0;
-  color: green;
+  color: black;
   text-align: left;
+  font-family: "Arial", Helvetica, sans-serif;
+  padding: 75px;
+  border: 1px;
+  margin: 10px;
 }

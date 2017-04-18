@@ -1,5 +1,8 @@
 body {
-  background-image:url("http://www.magic4walls.com/wp-content/uploads/2015/05/classic-book-texture-vintage-knowledge-wallpaper.jpg");
+  background-image: url("http://www.magic4walls.com/wp-content/uploads/2015/05/classic-book-texture-vintage-knowledge-wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
   color: black;
   text-align: left;
   font-family: "Arial", Helvetica, sans-serif;

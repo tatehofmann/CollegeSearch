@@ -3,7 +3,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  color: black;
+  color: #e2c351;
   text-align: left;
   font-family: "Arial", Helvetica, sans-serif;
   padding: 75px;
@@ -19,7 +19,7 @@ img {
 .dropbtn {
     background-color: #312C28;
     min-width: 50%;
-    color: white;
+    color: #f9edde;
     padding: 16px;
     font-size: 16px;
     border: none;

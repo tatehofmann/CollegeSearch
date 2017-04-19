@@ -2,7 +2,7 @@ body {
   background-image: url("https://blog.shodan.io/content/images/2015/07/Library-with-a-book-ladde-014.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: contain;
+  background-size: cover;
   color: black;
   text-align: left;
   font-family: "Arial", Helvetica, sans-serif;

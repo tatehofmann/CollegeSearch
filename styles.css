@@ -6,9 +6,16 @@ body {
   color: #f9edde;
   text-align: left;
   font-family: "Arial", Helvetica, sans-serif;
-  padding: 75px;
-  border: 1px solid black;
-  margin: 10px;
+  padding: 30px;
+  border: none;
+  margin: none;
+}
+
+h1{
+  padding: 10px #363020;
+  border: 1px dashed #e2c351;
+  margin: 5px #363020;
+  background-color: #363020;
 }
 
 img {

@@ -11,10 +11,10 @@ body {
   margin: none;
 }
 
-h1{
+div.My-College-Search{
   padding: 10px #363020;
-  border: 1px dashed #e2c351;
-  margin: 20px #363020;
+  border: 1px dotted #e2c351;
+  margin: 20px 20px 20px 20px #363020;
   background-color: #363020;
 }
 

@@ -40,6 +40,10 @@ img {
     height: auto;
 }
 
+div.Menu{
+  display: block;
+}
+  
 .dropbtn {
   background-color: #312C28;
   min-width: 50%;
@@ -50,10 +54,12 @@ img {
   font-size: 16px;
   cursor: pointer;
 }
+
 .dropdown {
   position: relative;
-  display: block;
+  display: inline;
 }
+
 .dropdown-content {
   display: none;
   position: absolute;
@@ -63,6 +69,7 @@ img {
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
+
 .dropdown-content a {
   color: black;
   background-color: blue;
@@ -70,10 +77,12 @@ img {
   text-decoration: none;
   display: block;
 }
+
 .dropdown-content a:hover {background-color: red}
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
 .dropdown:hover .dropbtn {
     background-color:#382F2A;
 }

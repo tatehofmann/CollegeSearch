@@ -12,9 +12,9 @@ body {
 }
 
 div.My-College-Search{
-  padding: 15px 15px 15px 5px #363020;
+  padding: 15px 15px 15px 5px;
   border: 1px solid #e2c351;
-  margin: 20px 20px 20px 20px #363020;
+  margin: 20px 20px 20px 20px;
   background-color: #363020;
 }
 

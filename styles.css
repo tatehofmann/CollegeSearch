@@ -86,3 +86,8 @@ img {
 .dropdown:hover .dropbtn {
     background-color:#382F2A;
 }
+
+.Page-Content{
+  border: 20px solid #705942;
+  background-color: #C6A067;
+}

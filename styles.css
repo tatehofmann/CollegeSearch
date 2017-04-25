@@ -90,12 +90,12 @@ img {
 .Page-Content-Margin {
   border: 20px solid #363020;
   margin-top: 15px;
-  max-width: 40%;
+  max-width: 45%;
 }
 
 .Page-Content{
   border: 1px solid #C6AB67;
   background-color: #363020;
   padding-left: 20px;
-  max-width: 40%;
+  max-width: 100%;
 }

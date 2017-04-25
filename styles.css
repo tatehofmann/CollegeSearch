@@ -90,6 +90,7 @@ img {
 .Page-Content-Margin {
   border: 20px solid #363020;
   padding-top: 15px;
+  max-width: 40%;
 }
 
 .Page-Content{

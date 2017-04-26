@@ -11,6 +11,13 @@ body.Main-Page{
   margin: 0px;
 }
 
+body.TU{
+  background-image: url("http://downloads.dvq.co.nz/assets/img/downloads/hand-crafted-wood-vertical/1920x1200.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
 div.My-College-Search-Margin{
   padding: 0px;
   border: 10px solid #363020;

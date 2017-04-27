@@ -11,29 +11,6 @@ body.Main-Page{
   margin: 0px;
 }
 
-body.TU{
-  background-image: url("http://downloads.dvq.co.nz/assets/img/downloads/hand-crafted-wood-vertical/1920x1200.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  color: #D1D1D1;
-}
-
-h1.TU{
-  margin: 0px;
-  border: none;
-  padding: 0px;
-}
-
-#grad1{
-  size: cover;
-  background: #444545; /* For browsers that do not support gradients */    
-  background: -webkit-linear-gradient(left top, #444545, #5D5E5E); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(bottom right, #444545, #5D5E5E); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(bottom right, #444545, #5D5E5E); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(to bottom right, #444545, #5D5E5E); /* Standard syntax (must be last) */
-}
-
 div.In-State_Content{
   display: inline-block;
 }
@@ -125,4 +102,28 @@ img {
   background-color: #363020;
   padding-left: 20px;
   max-width: 100%;
+}
+
+body.TU{
+  background-image: url("http://downloads.dvq.co.nz/assets/img/downloads/hand-crafted-wood-vertical/1920x1200.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: #D1D1D1;
+}
+
+h1.TU{
+  margin: 0px;
+  border: none;
+  padding: 0px;
+  background-color: none;
+}
+
+#grad1{
+  size: cover;
+  background: #444545; /* For browsers that do not support gradients */    
+  background: -webkit-linear-gradient(left top, #444545, #5D5E5E); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right, #444545, #5D5E5E); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom right, #444545, #5D5E5E); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom right, #444545, #5D5E5E); /* Standard syntax (must be last) */
 }

@@ -16,7 +16,13 @@ body.TU{
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  color: #C8C8C8;
+  color: #D1D1D1;
+}
+
+h1.TU{
+  margin: 0px;
+  border: none;
+  padding: 0px;
 }
 
 #grad1{

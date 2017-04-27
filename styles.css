@@ -106,6 +106,9 @@ body.TU{
   background-attachment: fixed;
   background-size: cover;
   color: #D1D1D1;
+  margin: 0px;
+  border: none;
+  padding: 0px;
 }
 
 h1.TU{

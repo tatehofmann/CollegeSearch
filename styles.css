@@ -137,6 +137,12 @@ div.TU-Content{
   filter: alpha(opacity=60); /* For IE8 and earlier */
 }
 
+div.TU-Pic-Border{
+  margin: 20px;
+  border:50px solid #444545;
+  padding: 0px;
+}
+
 div.chart{
  margin: auto; 
 }

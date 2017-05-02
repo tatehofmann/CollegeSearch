@@ -112,10 +112,10 @@ body.TU{
 }
 
 h1.TU{
-  margin: 0px;
+  margin-top: 60px;
+  margin-bottom: 60px;
   border: none;
-  padding: 0px;
-  background-color: none;
+  padding: 60px;
   size: 20em;
 }
 

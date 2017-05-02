@@ -115,8 +115,9 @@ h1.TU{
   margin-top: 60px;
   margin-bottom: 60px;
   border: none;
-  padding: 60px;
-  size: 20em;
+  padding: 60px 60px 60px 60px;
+  size: 40em;
+  text-align: center;
 }
 
 #grad1{
